@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AMP4010
-- 👀 I’m quite interested in Cryptography (mostly)
+- 👀 I’m quite interested in Cryptography (and also a few other things)
 - 🌱 I currently know C, C++, Java, Python, JavaScript and Solidity
 - 💞️ I’m not looking to collaborate on anything right now
 - 📫 How to reach me sukritb2005@gmail.com
